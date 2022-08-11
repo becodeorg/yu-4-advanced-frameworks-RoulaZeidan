@@ -11,15 +11,15 @@ h3 + p {
 .price { 
     margin-top: 0.25rem;
     font-weight: bold;
-    color: #ad5502;
+    color: rgb(240, 125, 18);
     font-size: 1.25rem;
 }
 .foodBtn {
     font: inherit;
     cursor: pointer;
-    background-color: #8a2b06;
-    border: 1px solid #8a2b06;
-    color: white;
+    background-color:rgb(3, 5, 37);
+    border: 1px solidrgb(17, 19, 53);
+    color: rgb(240, 125, 18);
     padding: 0.25rem 2rem;
     border-radius: 20px;
     font-weight: bold;
@@ -27,7 +27,7 @@ h3 + p {
 .foodInput { 
     width: 3rem;
     border-radius: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid rgb(248, 241, 203);
     font: inherit;
     margin-left: 2px;  
     margin-bottom: 10px;
