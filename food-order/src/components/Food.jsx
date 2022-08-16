@@ -22,6 +22,7 @@ export default function Food(props) {
     <div className={styles.card}>
       <div style={{ textAlign: "left" }}>
         <h3>{props.title}</h3>
+        <img src={props.img}/>
         <p>{props.desc}</p>
         <span className={styles.price}>${props.price}</span>
       </div>
